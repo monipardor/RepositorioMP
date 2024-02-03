@@ -3,3 +3,4 @@
 'analitica'
 'repositorio'
 'git'
+'juan'
