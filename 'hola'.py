@@ -1,0 +1,5 @@
+'hola'
+'como estas'
+'analitica'
+'repositorio'
+'git'
